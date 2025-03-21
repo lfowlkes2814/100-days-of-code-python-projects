@@ -1,1 +1,1 @@
-# 100-days-of-code-python-projects
+Brand Name Generator Project
